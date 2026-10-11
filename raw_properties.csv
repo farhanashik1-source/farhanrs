@@ -1,0 +1,5 @@
+property_id,address,price,square_feet,status
+101,"123 Main St",450000,2000,Active
+102,"456 Oak Ave",-50000,1500,Sold
+103,"789 Pine Rd",abc,1800,Active
+104,"321 Elm St",300000,900,Pending
